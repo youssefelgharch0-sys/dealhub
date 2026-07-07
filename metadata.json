@@ -1,0 +1,6 @@
+{
+  "name": "DealHub",
+  "description": "Production-ready modern ecommerce platform with multilingual, dark-mode, wishlist, shopping cart, and admin dashboard support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
